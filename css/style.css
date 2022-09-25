@@ -10,12 +10,12 @@
   opacity: 0.001;
 }
 
-.mdl-layout__header-row {
+.mdl-layout_header-row {
   align-items: center;
   justify-content: center;
 }
 
-.mdl-layout__content {
+.mdl-layout_content {
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
